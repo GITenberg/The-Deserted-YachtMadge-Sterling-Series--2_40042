@@ -20,6 +20,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/c#a36376
     - http://en.wikipedia.org/wiki/Mildred_Benson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40042#The-Deserted-YachtMadge-Sterling-Series--2
 gutenberg_issued: '2012-06-19'
 gutenberg_type: Text
 identifiers:
